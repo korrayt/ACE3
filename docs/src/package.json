@@ -6,7 +6,7 @@
   },
   "devDependencies": {
     "@rollup/plugin-terser": "^0.4.4",
-    "rollup": "^4.1.4",
+    "rollup": "^4.59.0",
     "rollup-plugin-scss": "^4.0.0",
     "rollup-plugin-svg-icons": "^2.1.2",
     "rollup-plugin-svg-sprite-loader": "^0.0.4",
